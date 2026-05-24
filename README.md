@@ -20,7 +20,7 @@ In addition, FridgeAssistant recommends recipes based on the current inventory a
 - Health goal selection
 - Recipe recommendation
 - Recipe recommendation based on current inventory when no health goal is selected
-- Goal-based recipe recommendation according to the selected health goal
+- Goal-based recipe recommendation according to the selected health goal and current inventory
 - Recipe cooking
 - Daily calorie, protein, and carbohydrate intake tracking
 - Save and load data
