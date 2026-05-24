@@ -29,20 +29,19 @@ In addition, FridgeAssistant recommends recipes based on the current inventory a
 
 # Project Files
 
-## `main.py`
+**main.py**  
 The entry point of the program. It displays the main menu, receives user input, and controls the overall program flow.
 
-## `food.py`
+**food.py**  
 Contains the Food class, which stores food item information and handles food status, expiry-related methods, and other related functions.
 
-## `fridge_manager.py`
-Contains the Inventory class and inventory management features.  
-It also includes recipe recommendation, recipe cooking, nutrition calculation, and input helper functions.
+**fridge_manager.py**  
+Contains the Inventory class and inventory management features. It also includes recipe recommendation, recipe cooking, nutrition calculation, and input helper functions.
 
-## `user.py`
+**user.py**  
 Contains the User class. Manages user login information, health goals, and nutrition intake tracking.
 
-## `rules.py`
+**rules.py**  
 Stores system rule data and rule-based helper functions.
 
 ---
