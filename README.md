@@ -72,6 +72,6 @@ For each user, the system creates files such as:
 - Object-Oriented Programming (OOP)
 - Terminal-Based Application
 
-## Disclaimer
+## AI Acknowledgement
 
-The image in the Padlet were generated with the assistance of AI image generation tools for visual demonstration purposes only.
+I acknowledge that the image in the Padlet were generated with the assistance of AI image generation tools for visual demonstration purposes only.
