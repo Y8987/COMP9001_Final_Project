@@ -1,8 +1,0 @@
-username: alice
-password: 123456
-goal: No Goal
-last_login: 2026-05-24
-intake_date: 2026-05-24
-calories: 0
-protein: 0
-carbs: 0
