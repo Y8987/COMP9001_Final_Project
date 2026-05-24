@@ -1,0 +1,1 @@
+beef|1000.0|g|meat|fridge|3|3
