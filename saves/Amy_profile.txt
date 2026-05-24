@@ -1,0 +1,8 @@
+username: Amy
+password: 123
+goal: Low Sugar
+last_login: 2026-05-24
+intake_date: 2026-05-24
+calories: 500.0
+protein: 52.0
+carbs: 0.0

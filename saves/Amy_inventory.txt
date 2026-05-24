@@ -1,0 +1,11 @@
+beef|250.0|g|meat|fridge|3|3
+potato|5.0|pcs|vegetable|fridge|7|7
+potato|2.0|pcs|vegetable|fridge|0|0
+chicken|1000.0|g|meat|fridge|1|1
+bread|5.0|pcs|other|fridge|4|4
+tomato|10.0|pcs|vegetable|fridge|3|3
+shrimp|1000.0|g|seafood|freezer|8|8
+butter|500.0|g|other|fridge|30|30
+beef|300.0|g|meat|fridge|3|3
+egg|10.0|pcs|dairy|fridge|14|14
+lamb|1000.0|g|meat|freezer|20|20
