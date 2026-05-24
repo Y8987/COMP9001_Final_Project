@@ -1,7 +1,7 @@
 # FridgeAssistant
 
 FridgeAssistant is a terminal-based object-oriented fridge management system.  
-It helps users record and organize household food items, reducing food waste and unnecessary repeated purchases.
+It helps users record and organize food, reducing food waste and unnecessary repeated purchases.
 
 The system automatically updates food expiry days based on the number of days passed since the user's last login. Expired food items are moved to a separate expired inventory section to remind users to clean their fridge in time. Users can also view freshness status indicators to identify food that is close to expiring.
 
@@ -23,7 +23,7 @@ In addition, FridgeAssistant recommends recipes based on the current inventory a
 - Goal-based recipe recommendation according to the selected health goal
 - Recipe cooking
 - Daily calorie, protein, and carbohydrate intake tracking
-- Save and load user data
+- Save and load data
 
 ---
 
@@ -33,16 +33,17 @@ In addition, FridgeAssistant recommends recipes based on the current inventory a
 The entry point of the program. It displays the main menu, receives user input, and controls the overall program flow.
 
 ## `food.py`
-Contains the `Food` class, which stores food item information and handles food status, expiry-related methods, and other related functions.
+Contains the Food class, which stores food item information and handles food status, expiry-related methods, and other related functions.
 
 ## `fridge_manager.py`
-Contains the `Inventory` class, which manages inventory-related features. It also includes recipe recommendation, recipe cooking, nutrition calculation, and helper functions.
+Contains the Inventory class and inventory management features.  
+It also includes recipe recommendation, recipe cooking, nutrition calculation, and input helper functions.
 
 ## `user.py`
-Manages user login information, health goals, and nutrition intake tracking.
+Contains the User class. Manages user login information, health goals, and nutrition intake tracking.
 
 ## `rules.py`
-Stores system rule data and helper functions.
+Stores system rule data and rule-based helper functions.
 
 ---
 
@@ -59,7 +60,7 @@ python main.py
 # Save Files
 
 The program stores user data inside the `saves` folder.  
-For each user, the system may create files such as:
+For each user, the system creates files such as:
 
 - `username_profile.txt`
 - `username_inventory.txt`
